@@ -16,6 +16,9 @@
 			</Button>
 		</ChildItems>
 	</AutoCommandBar>
+	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
 	<ChildItems>
 		<TextDocumentField name="СтрокаКомментария" id="1">
 			<DataPath>СтрокаКомментария</DataPath>
@@ -40,10 +43,6 @@
 					<v8:AllowedLength>Variable</v8:AllowedLength>
 				</v8:StringQualifiers>
 			</Type>
-			<SavedData>true</SavedData>
-			<Save>
-				<Field>СтрокаКомментария</Field>
-			</Save>
 		</Attribute>
 	</Attributes>
 	<Commands>

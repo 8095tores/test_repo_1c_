@@ -4,6 +4,9 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="BeforeWriteAtServer">ПередЗаписьюНаСервере</Event>
+	</Events>
 	<ChildItems>
 		<InputField name="Номер" id="1">
 			<DataPath>Объект.Number</DataPath>
@@ -109,7 +112,7 @@
 			</ChildItems>
 		</Table>
 		<InputField name="Комментарий" id="44">
-			<DataPath>Комментарий</DataPath>
+			<DataPath>Объект.Комментарий</DataPath>
 			<OpenButton>true</OpenButton>
 			<EditTextUpdate>OnValueChange</EditTextUpdate>
 			<ContextMenu name="КомментарийКонтекстноеМеню" id="45"/>
