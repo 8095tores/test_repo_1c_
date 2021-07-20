@@ -6,21 +6,6 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="Catalog.Клиенты.StandardCommand.Create">
-			<Visibility>
-				<xr:Common>true</xr:Common>
-			</Visibility>
-		</Command>
-		<Command name="Catalog.Номенклатура.StandardCommand.Create">
-			<Visibility>
-				<xr:Common>true</xr:Common>
-			</Visibility>
-		</Command>
-		<Command name="Document.ОказаниеУслуги.StandardCommand.Create">
-			<Visibility>
-				<xr:Common>true</xr:Common>
-			</Visibility>
-		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
 		<Command name="AccumulationRegister.ОстаткиМатериалов.StandardCommand.OpenList">
