@@ -106,7 +106,7 @@
 		<Metadata name="Report.РеестрДокументовОказаниеУслуги.Template.ОсновнаяСхемаКомпоновкиДанных" id="60dc8e62-a3e1-4f8e-906a-36576d6300b3" configVersion="e45368ffb228e3448d536aee279c2a5b00000000"/>
 		<Metadata name="Report.РеестрДокументовОказаниеУслуги.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="60dc8e62-a3e1-4f8e-906a-36576d6300b3.0" configVersion="9966f6d17b350b41bcbcef35d70918fe00000000"/>
 		<Metadata name="Report.РейтингУслуг" id="7051ffdb-b3a4-4c34-81cb-082d5d1915f2" configVersion="6d6654536207344894db71e9a1f9708e00000000"/>
-		<Metadata name="Report.РейтингУслуг.Template.ОсновнаяСхемаКомпоновкиДанных" id="9004a674-dcae-4810-937f-3f16885e5dfa" configVersion="cfe64db82f5bf741ab94aff3d54de92d00000000"/>
+		<Metadata name="Report.РейтингУслуг.Template.ОсновнаяСхемаКомпоновкиДанных" id="9004a674-dcae-4810-937f-3f16885e5dfa" configVersion="31015c1bac8e3f4c90d8cd1e3d7d7bdd00000000"/>
 		<Metadata name="Report.РейтингУслуг.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="9004a674-dcae-4810-937f-3f16885e5dfa.0" configVersion="4832724f0d2b314aaa29f7880565336000000000"/>
 		<Metadata name="Subsystem.Бухгалтерия" id="77ea41fe-d5ab-45a2-8ed9-cc291a61b7f2" configVersion="444f86fe6231e3488a32f81e683d3d8500000000"/>
 		<Metadata name="Subsystem.Бухгалтерия.CommandInterface" id="77ea41fe-d5ab-45a2-8ed9-cc291a61b7f2.1" configVersion="f010118ec1e34c4c99af681c76b52fa500000000"/>
