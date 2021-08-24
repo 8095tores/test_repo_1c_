@@ -33,7 +33,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ВыручкаМатериалов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ПереченьУслуг</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.РейтингКлиентов</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">e5f2420f-b393-42ec-9edb-b3926ddc8e5e</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ПроверкаДокументаОказаниеУслуги</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
